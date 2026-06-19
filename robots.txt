@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://autumn-nguyen.github.io/al-folio/sitemap.xml
+Sitemap: https://autumn-nguyen.github.io//sitemap.xml
