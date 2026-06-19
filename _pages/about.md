@@ -24,10 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a recent college graduate in Computer Science, a pursuer of Math and Philosophy, and an advocate for environmental and social good.
+I’m an incoming PhD student at University of California, San Diego, within the Halıcıoğlu Data Science Institute. I conduct research AI and computational techniques to understand climate and its impacts, hoping to make positive impacts on our society and 🌏. I graduated from my beloved Mount Holyoke College, where I studied Computer Science, Mathematics, and Philosophy.
 
-Please reach out if you are needing technical help to create something that would bring value to others. I'm working freelance and willing to provide help at low cost/for free for nonprofits, grassroot orgs, or just individuals hoping to make a positive impact. I have experience building data pipelines, analyzing datasets, developing AI/statistical models, building websites and mobile apps, and brainstorming tech solutions.
-
-My work primarily lies in Machine Learning, Data Science, Software Engineering, Computer Vision, and multidisciplinary scientific work. I am always looking to collaborate with engineers, scientists, and stakeholders to tackle real-world problems.
-
-In my free time, you can find me hiking, learning to play music, and cooking tasty vegan food. I love good conversations -- please feel comfortable to reach out!
+Feel free to reach out if you need technical help with creating something that would bring value to others. I’m always willing to help out nonprofits, grassroot orgs, and aspiring individuals. I have experiences building data pipelines, analyzing datasets, developing AI/statistical models, building websites and mobile apps, brainstorming tech solutions, mentoring and teaching, among others.
