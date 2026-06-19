@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "autumn-nguyen/al-folio",
+    "data-repo": "autumn-nguyen/autumn-nguyen.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
