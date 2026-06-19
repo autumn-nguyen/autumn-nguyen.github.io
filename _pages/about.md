@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m an incoming PhD student at University of California, San Diego, within the Halıcıoğlu Data Science Institute. I conduct research AI and computational techniques to understand climate and its impacts, hoping to make positive impacts on our society and 🌏. I graduated from my beloved Mount Holyoke College, where I studied Computer Science, Mathematics, and Philosophy.
+I’m an incoming PhD student at University of California, San Diego, within the Halıcıoğlu Data Science Institute. I conduct research AI and computational techniques to understand climate and its impacts, aiming to make positive impacts on our society and 🌏. I am an alumna of Mount Holyoke College, where I did Computer Science, Mathematics, and Philosophy, and of Trần Chuyên (Trần Đại Nghĩa) in Saigon where I grew up.
 
 Feel free to reach out if you need technical help with creating something that would bring value to others. I’m always willing to help out nonprofits, grassroot orgs, and aspiring individuals. I have experiences building data pipelines, analyzing datasets, developing AI/statistical models, building websites and mobile apps, brainstorming tech solutions, mentoring and teaching, among others.

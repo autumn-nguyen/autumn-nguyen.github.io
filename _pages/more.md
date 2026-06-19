@@ -10,6 +10,5 @@ Bullet points of what I like to do:
 - [Motion pictures](motion-pictures/)
 - [Philosophy](philosophy/)
 - [Cooking](cooking/)
-- [Sports](sports/)
-- [Martial Arts](martial/)
+- [Sports and Martial Arts](sports-martial-arts/)
 - [Dances](dances/)
