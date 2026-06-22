@@ -28,4 +28,4 @@ I’m an incoming PhD student at University of California, San Diego, within the
 
 Feel free to reach out if you need technical help with creating something that would bring value to others. I’m always willing to help out nonprofits, grassroot orgs, and aspiring individuals. I have experiences building data pipelines, analyzing datasets, developing AI/statistical models, building websites and mobile apps, brainstorming tech solutions, mentoring and teaching, among others.
 
-For more of my research work, see my [Google Scholar](https://scholar.google.com/citations?user=x5kqQLsAAAAJ). For coding projects, see [Github](https://github.com/autumn-nguyen). For interesting life records, see [LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen) or my blog.
+For more of my research work, see my [Google Scholar](https://scholar.google.com/citations?user=x5kqQLsAAAAJ). For coding projects, see [Github](https://github.com/autumn-nguyen). For other interesting stuff, see [LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen) or my blog.
