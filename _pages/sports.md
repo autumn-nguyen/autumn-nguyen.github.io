@@ -5,7 +5,7 @@ permalink: more/sports-martial-arts/
 nav: false
 ---
 
-Never formally trained in any sports, but always willing to learn and play any sports when given the chance to. I’ve had a chance to do a tiny bit of:
+Never formally trained in any sports, but always willing to learn and play any sports when given the chance to. Have had a chance to do a tiny bit of:
 
 Basketball
 
@@ -26,7 +26,7 @@ Parkour / Guardian Arts
 Any sports you are willing to teach me
 
 
-Same with martial arts -- I mostly learn them on my own, never had any belts.
+Same with martial arts -- never had any belts, but love learning them whenever I can.
 
 Taekwondo
 

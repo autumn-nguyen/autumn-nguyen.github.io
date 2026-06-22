@@ -3,7 +3,7 @@ layout: page
 title: more
 permalink: /more/
 nav: true
-order: 3
+nav_order: 3
 ---
 Bullet points of what I like to do:
 - [Books](books/)

@@ -5,7 +5,7 @@ permalink: more/dances/
 nav: false
 ---
 
-Come dance together with me if you also enjoy these styles:
+Let's dance together if you also enjoy these styles:
 
 Contemporary / Lyrical
 
