@@ -4,9 +4,9 @@
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting === "dark") {
-    themeSetting = "light";
+    setThemeSetting = "light";
 } else {
-    themeSetting = "dark";
+    setThemeSetting = "dark";
 }
 };
 
