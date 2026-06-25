@@ -10,6 +10,7 @@ let toggleThemeSetting = () => {
   } else {
     setThemeSetting("system");
   }
+};
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
